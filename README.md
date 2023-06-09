@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Tobago and Canada</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alteredmindset&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
-<img align="left" alt="coding" width="100" src="[https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif](https://media.giphy.com/media/nm83tSgq6NoH8iVmJI/giphy.gif)">
+<img align="left" alt="coding" width="100" src="https://vignette.wikia.nocookie.net/anime-characters-fight/images/f/f8/Biscuit_Oliver_4.gif/revision/latest?cb=20191026061857&path-prefix=ru">
 
 
 - 🔭 I’m currently working on **The Biggest ecommerce platform in the Carribean**
