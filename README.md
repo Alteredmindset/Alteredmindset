@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Tobago and Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alteredmindset&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
-<img align="right" alt="coding" width="100" src="https://media.tenor.com/images/4dd69fcda6baed1ae4b810d31600f18c/tenor.gif">
+<img align="left" alt="coding" width="100" src="https://media.tenor.com/images/4dd69fcda6baed1ae4b810d31600f18c/tenor.gif">
 
 
 - 🔭 I’m currently working on **The Biggest ecommerce platform in the Carribean**
