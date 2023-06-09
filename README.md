@@ -2,7 +2,7 @@
 <h1 align="center">Sup I'm Altered Mindset</h1>
 <h3 align="center">A passionate frontend developer from Tobago and Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alteredmindset&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
 <img align="right" alt="coding" width="300" src="https://i.ytimg.com/vi/hyyeJepkuZs/maxresdefault.jpg">
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif">
 
