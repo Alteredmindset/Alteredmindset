@@ -1,7 +1,7 @@
 <h1 align="center">Sup I'm Altered Mindset</h1>
 <h3 align="center">A passionate frontend developer from Tobago and Canada</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alteredmindset&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alteredmindset&label=Profile%20views&color=0e75b6&style=flat" alt="alteredmindset" /> </p>
 <img align="right" alt="coding" width="100" src="https://media.tenor.com/images/4dd69fcda6baed1ae4b810d31600f18c/tenor.gif">
 
 
