@@ -1,4 +1,4 @@
-<img align="top" alt="coding" width="700" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif">
+<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif">
 
 <h1 align="center">Sup I'm Altered Mindset</h1>
 <h3 align="center">A passionate frontend developer from Tobago and Canada</h3>
