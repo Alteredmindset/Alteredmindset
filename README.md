@@ -21,7 +21,7 @@
 - <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=33&pause=1000&color=000000&background=1EFAFF5F&center=true&vCenter=true&width=435&lines=Full+Stack+developer;3+Years+of+experience;Stilling+training" alt="Typing SVG" /></a>
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
